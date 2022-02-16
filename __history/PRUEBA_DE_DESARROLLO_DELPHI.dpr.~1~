@@ -1,0 +1,14 @@
+program PRUEBA_DE_DESARROLLO_DELPHI;
+
+uses
+  Vcl.Forms,
+  formpresentacion in 'formpresentacion.pas' {fpresentacion};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tfpresentacion, fpresentacion);
+  Application.Run;
+end.

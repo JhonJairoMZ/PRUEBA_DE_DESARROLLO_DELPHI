@@ -1,0 +1,6 @@
+https://desktop-hasucvk:8391
+Servidor Local
+ODBC CRUD
+Nombre DB: CRUD
+Usuario: sa
+Password: Cbr203232*

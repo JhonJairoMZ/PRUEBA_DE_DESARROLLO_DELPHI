@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/02/16 14:57:57.772,=C:\Users\Jhon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/16 15:08:30.605,C:\PRUEBA_DE_DESARROLLO_DELPHI\formpresentacion.dfm=C:\Users\Jhon\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/16 15:08:30.605,C:\PRUEBA_DE_DESARROLLO_DELPHI\formpresentacion.pas=C:\Users\Jhon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/16 15:08:46.859,C:\PRUEBA_DE_DESARROLLO_DELPHI\PRUEBA_DE_DESARROLLO_DELPHI.dproj=C:\Users\Jhon\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/16 15:09:06.096,=C:\PRUEBA_DE_DESARROLLO_DELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/02/16 15:09:26.468,=C:\PRUEBA_DE_DESARROLLO_DELPHI\Unit2.pas</Transaction>
+    <Transaction>2022/02/16 15:10:21.129,C:\PRUEBA_DE_DESARROLLO_DELPHI\formprincipal.pas=C:\PRUEBA_DE_DESARROLLO_DELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/02/16 15:10:21.129,C:\PRUEBA_DE_DESARROLLO_DELPHI\formprincipal.dfm=C:\PRUEBA_DE_DESARROLLO_DELPHI\Unit1.dfm</Transaction>
+    <Transaction>2022/02/16 15:10:34.222,C:\PRUEBA_DE_DESARROLLO_DELPHI\formdatamodulo.dfm=C:\PRUEBA_DE_DESARROLLO_DELPHI\Unit2.dfm</Transaction>
+    <Transaction>2022/02/16 15:10:34.222,C:\PRUEBA_DE_DESARROLLO_DELPHI\formdatamodulo.pas=C:\PRUEBA_DE_DESARROLLO_DELPHI\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
